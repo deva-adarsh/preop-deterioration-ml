@@ -1,0 +1,1 @@
+Views can be split into `executive_summary.py`, `patient_risk_explorer.py`, and `threshold_lab.py` as the application grows. The initial `streamlit_app.py` keeps these views in one deployable surface while the model contract stabilizes.
